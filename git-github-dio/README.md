@@ -13,40 +13,40 @@
 
 # Navegação básica no terminal e instalação do git.
 
-### Listagem de pastas.
+## Listagem de pastas.
 
-#### dir == Windows
-#### ls == Linux
+### dir == Windows
+### ls == Linux
 
-### Navegar entre diretórios.
+## Navegar entre diretórios.
 
-#### cd / == Base diretório(Windows/Linux)
-#### cd nome_diretorio = Entra em diretório especificado pelo usuário.
-#### cd .. == Retrocede um nivel, ou seja, para o último diretório em que o usuário esteve.
+### cd / == Base diretório(Windows/Linux)
+### cd nome_diretorio = Entra em diretório especificado pelo usuário.
+### cd .. == Retrocede um nivel, ou seja, para o último diretório em que o usuário esteve.
 
-### Limpar tela 
+## Limpar tela 
 
-#### (ctrl + L) == Limpar tela (atalho Linux)
-#### cls == Limpar Tela (windows)
-#### clear == Limpar tela (Linux)
+### (ctrl + L) == Limpar tela (atalho Linux)
+### cls == Limpar Tela (windows)
+### clear == Limpar tela (Linux)
 
-### Criar diretório
+## Criar diretório
 
-#### mkdir nome_pasta == cria um diretório, se não aparecer nenhum erro significa que foi criado com sucesso(silence on success).
+### mkdir nome_pasta == cria um diretório, se não aparecer nenhum erro significa que foi criado com sucesso(silence on success).
 
-### Apagar 
+## Apagar 
 
-#### del nome_diretorio == Específico para apagar arquivos, não apaga pastas.        
-#### rmdir nome_diretorio /S /Q == Apaga diretórios com tudo o que estiver dentro. (windows)   
-#### rm -rf nome_diretorio == Apaga diretórios com tudo o que estiver dentro. (Linux)    
+### del nome_diretorio == Específico para apagar arquivos, não apaga pastas.        
+### rmdir nome_diretorio /S /Q == Apaga diretórios com tudo o que estiver dentro. (windows)   
+### rm -rf nome_diretorio == Apaga diretórios com tudo o que estiver dentro. (Linux)    
 
 
 
 
 # Atalhos
 
-#### (ctrl + L) == Limpar tela (atalho Linux).
-#### (tab) == auto completar.
+### (ctrl + L) == Limpar tela (atalho Linux).
+### (tab) == auto completar.
 
 
 ## Curso disponibilizado pela https://www.dio.me/ de git e GitHub.
