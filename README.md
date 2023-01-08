@@ -1,1 +1,1 @@
-# estudos Git e GitHub.
+# Estudos Git e GitHub.
