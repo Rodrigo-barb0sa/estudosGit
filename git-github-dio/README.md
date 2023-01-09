@@ -1,3 +1,8 @@
+#### Curso disponibilizado pela https://www.dio.me/ de git e GitHub.
+#### Link download git: https://git-scm.com/downloads
+
+<br>
+
 # Entendendo o que é git e sua importância.
 
 ### git é um sistema de versionamento de código distribuido, criado por Linus Torvalds que também é criador do Sistema Operacional Linux. 
@@ -42,13 +47,8 @@
 ### rmdir nome_diretorio /S /Q == Apaga diretórios com tudo o que estiver dentro. (windows)   
 ### rm -rf nome_diretorio == Apaga diretórios com tudo o que estiver dentro. (Linux)    
 
-
-
-
-# Atalhos
+- ## Atalhos
 
 ### (ctrl + L) == Limpar tela (atalho Linux).
 ### (tab) == auto completar.
 
-
-## Curso disponibilizado pela https://www.dio.me/ de git e GitHub.
