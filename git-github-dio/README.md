@@ -18,7 +18,7 @@
 
 <br>
 
-# Navegação básica no terminal e instalação do git.
+# Navegação básica no terminal.
 
 - ## Listagem de pastas.
 
