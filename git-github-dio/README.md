@@ -56,7 +56,7 @@
 
 
 
-- ### git init == A execução desse comando cria um novo subdiretório .
+- ### git init == A execução desse comando cria um novo subdiretório e cria-se um repositório.
 - ### git add == O comando git add adiciona uma alteração no diretório ativo à área de staging. 
 - ### git commit == Esse comando vai enviar seus arquivos para o repositório remoto. Use com a flag -m para dar um titulo ao commit.
 
