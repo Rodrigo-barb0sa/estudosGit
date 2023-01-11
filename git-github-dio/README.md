@@ -23,7 +23,7 @@
 - ## Listagem de pastas.
 
 ### dir == Windows
-### ls == Linux
+### ls (se executado com a flag -a vai ser listado tudo dentro do diretório inclusive arquivos ocultos) == Linux
 
 - ## Navegar entre diretórios.
 
@@ -52,3 +52,29 @@
 ### (ctrl + L) == Limpar tela (atalho Linux).
 ### (tab) == auto completar.
 
+# Comandos Git.
+
+
+
+- ### git init == A execução desse comando cria um novo subdiretório .
+- ### git add == O comando git add adiciona uma alteração no diretório ativo à área de staging. 
+- ### git commit == Esse comando vai enviar seus arquivos para o repositório remoto. Use com a flag -m para dar um titulo ao commit.
+
+### No caso de ser a sua primeira vez usando o git, o commit nessecita de ter um autor associado a ele então você precisa setar o seu email e o seu nome, com: 
+
+- #### git config --global user.email "email@provedor.com
+- #### git config --global user.name "nome sobrenome" 
+
+#### Imagem exemplificando o funcionamento do git add e git commit => https://www.earthdatascience.org/images/earth-analytics/git-version-control/git-add-commit.png
+
+
+- ### git clone == clonar um repositório remoto(GitHub por exemplo) para o seu repositório local(sua máquina).
+### 
+
+
+
+
+# Comandos Uteis.
+
+### pwd == Mostra o caminho do diretório que você está.
+### 

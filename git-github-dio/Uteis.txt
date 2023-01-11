@@ -1,0 +1,15 @@
+- SSH 
+
+1 passo: gerar as chaves publicas e privadas.
+
+    ssh-keygen -t ed25519 -C email-da-sua-conta-no-GitHub
+
+2 passo: Colocar nossa chave publica no GitHub.
+
+3 passo: Inicializar o SSH Agent 
+
+    eval $(ssh-agent -s) == inicializa o Agent
+
+    ssh-add caminho_da_chave (ou se você estiver dentro do diretorio da chave passa apenas o nome da chave privada).
+
+    depois vai pedir a senha cadastrada na criação das chaves.
