@@ -4,8 +4,12 @@
 
     ssh-keygen -t ed25519 -C email-da-sua-conta-no-GitHub
 
+    cat chave_publica == mostra o conteudo da chave.
+
 2 passo: Colocar nossa chave publica no GitHub.
 
+    cat chave_publica == mostra o conteudo da chave.
+      
 3 passo: Inicializar o SSH Agent 
 
     eval $(ssh-agent -s) == inicializa o Agent
