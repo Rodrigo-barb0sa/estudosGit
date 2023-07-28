@@ -45,7 +45,7 @@
 
 ### del nome_diretorio == Específico para apagar arquivos, não apaga pastas.        
 ### rmdir nome_diretorio /S /Q == Apaga diretórios com tudo o que estiver dentro. (windows)   
-### rm -rf nome_diretorio == Apaga diretórios com tudo o que estiver dentro. (Linux)    
+### rm -rf nome_diretorio == Apaga diretórios com tudo o que estiver dentro.   
 
 - ## Atalhos
 
